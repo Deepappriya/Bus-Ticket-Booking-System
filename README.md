@@ -1,11 +1,15 @@
 **🚌 Bus Ticket Booking System**
+
 **📖 Description**
 The Bus Ticket Booking System is a web-based application built using PHP, MySQL, HTML, CSS, and JavaScript.
+
 It allows passengers to register, log in, book tickets, and view their bookings, while the admin can manage buses, routes, and view all bookings.
+
 This project helps automate bus ticket management, making the process easy, efficient, and paperless.
 
 **🚀 Features
 👩‍💼 Passenger Module:**
+
 Register and log in securely
 Search available routes and buses
 Select travel date and bus
